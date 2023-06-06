@@ -58,7 +58,7 @@ const FooterSection = () => {
 
 
                     </Flex>
-                    <Box mb="3rem" w="85%">
+                    <Box mb="3rem" w="85%" textAlign={"center"}>
                         © 2020 FoodBourg Pvt. Ltd. All Rights Reserved | Product Of Lanceme Up
                     </Box>
 
