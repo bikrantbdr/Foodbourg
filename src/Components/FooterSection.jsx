@@ -11,7 +11,7 @@ const FooterSection = () => {
             {/* container */}
             <Flex w="100vw" justifyContent={'center'} mt="3rem">
                 <Flex flexDirection={"column"} width="100%" justifyContent={"center"} alignItems={"center"}>
-                    <Flex justifyContent={"center"} width="100%" mb="3rem" wrap={"wrap"}>
+                    <Flex justifyContent={"center"} width="100%" mb="3rem" wrap={"wrap"} gap="20px">
                         <Flex flexDirection={"column"} alignItems={"center"} width={{ base: "45%", md: "33%", lg: "20%" }} >
                             <Flex justifyContent={"center"} alignItems={"center"}>
                                 <Image src={Logo} alt="Logo" width={100} height={100} />
